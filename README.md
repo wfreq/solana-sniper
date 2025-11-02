@@ -100,6 +100,8 @@ It'll scan your wallet and dump balances and close the accounts to reclaim rent
 
 # Troubleshooting
 
+env or file not found related errors - make sure you setup your .env using the env-example and save it as .env
+
 connection failed / RPC errors: Check RPC_URL
 
 Insufficient funds/Balance errors: Ensure STOP_BALANCE_THRESHOLD leaves enough SOL for fees.
