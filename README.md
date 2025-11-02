@@ -1,4 +1,4 @@
-Pump Fun Sniper 🚀🔫
+# Pump Fun Sniper 🚀🔫 
 
 A minimal, fast Solana sniper for “pump fun” tokens — designed to watch buys and snipe token mints
 Use responsibly. This repo is provided as-is for educational / experimental purposes.
