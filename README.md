@@ -40,7 +40,7 @@ Basic familiarity with the command line
 
 # Install
 ```bash
-git clone https://github.com/wfreq/solana-sniper
+git clone https://github.com/wfreq/solana-sniper.git
 ```
 ```bash
 cd solana-sniper
