@@ -109,10 +109,7 @@ Insufficient funds/Balance errors: Ensure STOP_BALANCE_THRESHOLD leaves enough S
 Keypair read errors: Make sure KEYPAIR_PATH is a valid relative path or a valid base58 string.
 
 TX failure - custom program error: 6002 | slippage: Too much SOL required to buy the given amount of tokens"
-(This offers protection from buying coins that have pumped a lot due to large dev buy)
-
-Increase slippage
-
+(This offers protection from buying coins that have pumped a lot due to large dev buy): Increase slippage
 
 Dependency issues in Bun: run the following command
 
