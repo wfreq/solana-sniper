@@ -1,0 +1,16 @@
+# RPC Configuration - sign up for free rpc from https://www.helius.dev/ and replace the API key with your own
+RPC_URL=https://mainnet.helius-rpc.com/?api-key=your_api_key
+
+# Keypair Configuration - Either relative path to .json keypair file or base58 private key
+#KEYPAIR_PATH=./id.json OR KEYPAAIR_PATH=base58_private_key
+KEYPAIR_PATH=./id.json
+# Trading Configuration
+
+# Number of tokens to buy
+TOKEN_AMOUNT=288000
+# Max solana to spend (this is your slippage tolerance)
+MAX_SOL_COST=0.01
+# How often to snipe
+BUY_EVERY_N_TOKENS=8
+# Stop when balance below X Solana - Leave some for fees to dump tokens
+STOP_BALANCE_THRESHOLD=0.12
